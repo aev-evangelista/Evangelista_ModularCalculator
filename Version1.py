@@ -44,4 +44,19 @@ else:
    
 print(f"\nResult: {result}")
 
+GUIDE QUESTIONS:
 
+What functions did you create in your calculator program?
+I created four arithmetic functions: add_numbers, subtract_numbers, multiply_numbers, and divide_numbers.
+
+What parameters did your functions use?
+Each function used two parameters (num1 and num2) to hold the values passed  for calculation.
+
+What arguments were passed when the functions were called?
+The arguments passed were the user's inputs in first_num and second_num
+
+How did your program use the returned value?
+The returned value from the  unction was stored in the result variable and then displayed to the screen using a print statement.
+
+Why is it better to divide the calculator program into functions instead of writing everything in one long block of code?
+It makes the code cleaner, easier to understand, and simpler to debug. It allows the operations to be reused when necessary.
