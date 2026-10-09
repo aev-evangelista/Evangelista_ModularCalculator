@@ -60,5 +60,3 @@ The returned value from the  unction was stored in the result variable and then 
 
 Why is it better to divide the calculator program into functions instead of writing everything in one long block of code?
 It makes the code cleaner, easier to understand, and simpler to debug. It allows the operations to be reused when necessary.
-
-    <img width="502" height="564" alt="image" src="https://github.com/user-attachments/assets/e7020c60-00a3-4b63-80f4-d28d4bb67b15" /
